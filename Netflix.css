@@ -1,0 +1,605 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(68, 62, 62);
+}
+
+.banner1 {
+    width: 100%;
+    height: 730px;
+    background-image: url(./IN-en-20220613-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.blackshade {
+    background: rgb(126,124,124);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0.107) 55%, rgba(0,0,0,1) 100%);
+    position: absolute;
+    height: 730px;
+    width: 100%;
+    z-index: 1;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+}
+
+.headerpart1 {
+    width: 50%;
+    height: 100px;
+}
+
+.headerpart2 {
+    width: 50%;
+    height: 100px;
+    position: absolute;
+    top: 0px;
+    right: 0;
+}
+
+.imagecontainer {
+    height: 100px;
+    width: 200px;
+    margin-left: 60px;
+}
+
+.Netflixpng {
+    width: 200px;
+    height: 100px;
+}
+
+.buttonpartside1 {
+    width: 50%;
+    height: 100px;
+}
+
+.buttonpartside2 {
+    width: 50%;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    top: 0px; 
+}
+
+.selectboxbutton_container {
+    width: 50%;
+    height: 100px;
+}
+
+.selectbox {
+    height: 35px;
+    width: 90px;
+    border: 0.01px solid white;
+    border-radius: 3px;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.englishtext {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.languagepng {
+    height: 15px;
+    width: 15px;
+}
+
+.arrow {
+    height: 10px;
+    width: 10px;
+}
+
+
+.SignInbutton_container {
+    width: 50%;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.SignIn {
+    height: 35px;
+    width: 86px;
+    background-color: #e50914;
+    border-radius: 5px;
+    border: 0.01px solid;
+    border-color: #e50914;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.signtext {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.mainstructure {
+    width: 100%;
+    height: 600px;
+}
+
+.mainstructurepart1 {
+    width: 100%;
+    height: 20%;
+}
+
+.mainstructurepart2 {
+    width: 100%;
+    height: 60%;
+}
+
+.midpart1 {
+    width: 25%;
+    height: 100%;
+}
+
+.midpart2 {
+    width: 75%;
+    height: 360px;
+    position: absolute;
+    left: 25%;
+    top: 225px;
+}
+
+.text {
+    color: white;
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    margin-top: 0px;
+}
+
+.subtitle {
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 16%;
+    margin-top: -45px;
+}
+
+.subsubtitle {
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+}
+
+.mainstructurepart3 {
+    width: 100%;
+    height: 20%;
+}
+
+.big-box {
+    margin-left: 25%;
+    margin-top: -90px;
+}
+
+.email-text {
+    height: 60px;
+    width: 520px;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.getstart {
+    margin-top: -66px;
+    margin-left: 527px;
+}
+
+.buttongetstart {
+    width: 250px;
+    height: 66px;
+    background-color: #e50914;
+    border-width: 0.01;
+    border-color: #e50914;
+}
+
+.start {
+    font-size: 30px;
+    color: white;
+}
+
+.banner2 {
+        border-top: solid 8px #757575;
+        width: 100%;
+        height: 500px;
+        background-color: black;
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+
+.banner2-part1 {
+    height: 100%;
+    width: 50%;
+}
+
+.banner2-part1a {
+    height: 100%;
+    width: 28%;
+}
+
+.banner2-part1b {
+    height: 100%;
+    margin-left: 28%;
+    margin-top: -521.5px;
+}
+
+.text1banner2 {
+    color: white;
+    padding-top: 160px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text2banner2 {
+    color: white;
+    font-size: 25px;
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tvpng {
+    float: right;
+    margin-top: -500px;
+    padding-right: 9%;
+    position: relative;
+}
+
+.our-story-card-video1 {
+    position: inherit;
+    float: right;
+    width: 463px;
+    padding-right: 15%;
+    margin-top: -400px;
+    
+}
+
+.banner3 {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner3-part1 {
+    height: 100%;
+    width: 50%;
+}
+
+.banner3-part2 {
+    height: 100%;
+    width: 50%;
+    float: right;
+    margin-top: -500px;
+}
+
+.text1banner3 {
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20%;
+}
+
+.text2banner3 {
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+}
+
+.our-story-card-animation-image3 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#stranger-things {
+    height: 80px;
+    width: 60px;
+}
+
+.our-story-card-animation-text1 {
+    margin-left: 90px;
+    margin-top: -55px;
+}
+
+#downloading {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.download-box {
+    position: absolute;
+    background-color: black;
+
+    height: 100px;
+    width: 400px;
+    margin-left: 125px;
+    margin-top: -150px;
+    border-radius: 10px;
+    border: white solid 1px;
+}
+
+.imageanimation {
+    height: 50px;
+    width: 50px;
+    margin-top: -100px;
+    margin-left: 200px;
+}
+
+.banner4 {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner4part1 {
+    height: 100%;
+    width: 50%;
+}
+
+.banner4part2 {
+    height: 100%;
+    width: 50%;
+    float: right;
+    margin-top: -500px;
+}
+
+.text1banner4 {
+    color: white;
+    margin: 0px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.text2banner4 {
+    color: white;
+    margin: 0px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 200px;
+}
+
+.our-story-card-video9 {
+    height: 400px;
+    width: 400px;
+    margin-top: -600px;
+    margin-bottom: 138px;
+    margin-left: 120px;
+}
+
+.newtvpng {
+    position: relative;
+}
+
+.banner5 {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner5part1 {
+    height: 100%;
+    width: 50%;
+}
+
+.banner5part2 {
+    height: 100%;
+    width: 50%;
+    float: right;
+    margin-top: -500px;
+}
+
+.banner5image {
+    height: 360px;
+    width: 450px;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+
+.text1banner5 {
+    color: white;
+    margin: 0px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 150px;
+}
+
+.text2banner5 {
+    color: white;
+    margin: 0px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 280px;
+}
+
+.banner6 {
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner6part1 {
+    height: 100%;
+    width: 23%;
+}
+
+.banner6part2 {
+    height: 100%;
+    width: 77%;
+    float: right;
+    margin-top: -800px;
+    position: relative;
+}
+
+.banner6part2-a {
+    margin-top: -33px;
+    height: 20%;
+    width: 100%;
+
+}
+
+.banner6part2-b {
+    height: 55%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.banner6part2-c {
+    padding-top: 60px;
+    margin-top: -20px;
+    height: 25%;
+    width: 100%;
+}
+
+.text1banner6 {
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    padding-top: 50px;
+}
+
+.table1,.table2,.table3,.table4,.table5,.table6 {
+    color: white;
+    height: 60px;
+    width: 70%;
+    background-color: #303030;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.tabletext {
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.icontext {
+    height: 10px;
+    width: 10px;
+    margin-right: 50px;
+    font-size: 50px;
+    margin-top: 1px;
+    font-weight: normal;
+}
+
+.big-box2 {
+    margin-left: 3%;
+    margin-top: 0px;
+}
+
+.email-text2 {
+    height: 60px;
+    width: 520px;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.getstart2 {
+    margin-top: -66px;
+    margin-left: 527px;
+}
+
+.banner6text {
+    color: white;
+    margin-left: 7%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.banner7 {
+    background-color: black;
+    height: 390px;
+    width: 100%;
+}
+
+.banner7part1 {
+    height: 390px;
+    width: 23%;
+}
+
+.banner7part2 {
+    height: 390px;
+    width: 77%;
+    float: right;
+    margin-top: -390px;
+}
+.banner7part2a {
+    margin-top: -16px;
+    height: 33%;
+    width: 100%;
+}
+
+.banner7part2b {
+    height: 33%;
+    width: 100%;
+}
+
+.banner7part2c {
+    margin-top: -9px;
+    height: 29%;
+    width: 100%;
+    padding-top: 30px;
+}
+
+.textlast {
+    color: #757575;
+    padding-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.tablerow {
+    color: #757575;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.selectbox1 {
+    height: 40px;
+    width: 120px;
+    border: 0.01px solid white;
+    border-radius: 3px;
+    padding-top: 9px;
+}
+
+.netflixindia {
+    color: #757575;
+    
+}
+hr{
+    border: #757575;
+}
